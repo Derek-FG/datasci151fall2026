@@ -222,4 +222,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+#ide tools
 .databricks
+databricks.*
+.vscode
