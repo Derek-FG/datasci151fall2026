@@ -226,3 +226,4 @@ __marimo__/
 .databricks
 databricks.*
 .vscode
+.*MACOSX.*
