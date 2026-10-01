@@ -1,0 +1,19 @@
+{
+    "titles": [
+        {
+            "id": 1,
+            "title": "The Umbrellas of Cherbourg",
+            "rating": 7.8
+        },
+        {
+            "id": 2,
+            "title": "M3gan",
+            "rating": 6.3
+        },
+        {
+            "id": 3,
+            "title": "Pyscho",
+            "rating": 8.5
+        }
+    ]
+}
